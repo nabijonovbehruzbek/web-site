@@ -1,0 +1,284 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    width: 1366px;
+    height: 2500px;
+    margin: auto;
+}
+.bosh{
+    width: 100%;
+    height: 9px;
+    border: 1px solid #FF880C;
+    background-color: #FF880C;
+}
+.bow{
+    width: 100%;
+    height: 200px;
+    float: right;
+}
+.bow img{
+    width: 114px;
+    margin-top: 24px;
+    margin-left: 200px;
+}
+.bow h1{
+    font-family: calibri;
+    margin-left: 330px;
+    margin-top: -100px;
+    color: #FF880C;
+}
+.bow h4{
+    font-family: Century;
+    margin-left: 330px;
+    color: #FF880C;
+}
+.bow h5{
+    font-family: calibri;
+    color: #FF880C;
+    margin-left: 1100px;
+    margin-top: -25px;
+}
+.bow2{
+    width: 470px;
+    height: 200px;
+    float: left;
+    margin-left: 834px;
+    margin-top: -199px;
+}
+.bow2 img{
+    width: 490px;
+}
+.tell{
+    font-size: 20px;
+    position: relative;
+    bottom: 40px;
+    
+}
+.img{
+    width: 258px;
+    height: 70px;
+    margin-top: -100px;
+    margin-left: 130px;
+}
+.h55{
+    position: relative;
+    bottom: 40px;
+}
+.img img{
+    width: 47px;
+    height: 46px;
+    margin-top: 10px;
+}
+.img h4{
+    font-family: calibri;
+    color: #FF880C;
+    position: relative;
+    left: 50px;
+    bottom: 90px;
+}
+.img h3{
+    color: #FF880C;
+    margin-left: 117px;
+    margin-top: -42px;
+    position: relative;
+    bottom: 90px;
+}
+.menu{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #FF880C;
+    background-color: #FF880C;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+}
+.menu ul{
+    display: flex;
+}
+.menu ul li{
+    list-style: none;
+    padding: 0px 0px 0px 30px;
+    position: relative;
+    right: 280PX;
+    top: 10px;
+}
+.menu ul li a{
+    font-size: 23px;
+    text-decoration: none;
+    color: white;
+}
+.poisk{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    top: 6px;
+    right: 200px;
+}
+.h11{
+    font-size: 50px;
+    color: white;
+    position: relative;
+    left: 800px;
+    bottom: 300px;
+}
+.lay1{
+    position: relative;
+    left: 900px;
+    bottom: 230px;
+}
+.lay2{
+    position: relative;
+    left: 900px;
+    bottom: 240px;
+}
+.h111{
+    color: #FF880C;
+    position: relative;
+    left: 170px;
+    bottom: 40px;
+}
+.pp{
+    width: 800px;
+    position: relative;
+    left: 100px;
+    bottom: 30px;
+    color: #FF880C;
+}
+.but{
+    width: 150px;
+    height: 50px;
+    background-color: #FF880C;
+    border: none;
+    color: white;
+    position: relative;
+    left: 250px;
+    bottom: 260px;
+}
+.center{
+    width: 100%;
+    height: 300px;
+    border: 1px solid #FF880C;
+    position: relative;
+    bottom: 230px;
+    background-color: #FF880C;
+}
+.ell{
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+.lay6{
+    position: relative;
+    left: 230px;
+}
+.ell1{
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+.clip{
+    position: relative;
+    left: 235px;
+    top: 10px;
+}
+.ell2{
+    position: relative;
+    left: 350px;
+    top: 50px;
+}
+.qul{
+    position: relative;
+    left: 225px;
+}
+.h2h{
+    position: relative;
+    left: 330px;
+    top: 50px;
+    color: white;
+}
+.h2h2{
+    position: relative;
+    left: 600px;
+    top: 20px;
+    color: white;
+}
+.h2h2h{
+    position: relative;
+    left: 760px;
+    bottom: 8px;
+    color: white;
+}
+.dom{
+    position: relative;
+    bottom: 250px;
+}
+.oil{
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 700px;
+    color: white;
+}
+.f2{
+    position: relative;
+    bottom: 330px;
+}
+.footer2{
+    font-size: 50px;
+    position: relative;
+    left: 200px;
+    bottom: 600px;
+    color: whitesmoke;
+}
+.footer1{
+    font-size: 30px;
+    position: relative;
+    left: 100px;
+    bottom: 900px;
+    color: white;
+}
+.footer4{
+    font-size: 40px;
+    position: relative;
+    left: 500px;
+    bottom: 975px;
+    color: white;
+}
+.footer6{
+    font-size: 40px;
+    position: relative;
+    left: 900px;
+    bottom: 1030px;
+    color: white;
+}
+.menda{
+    font-size: 15px;
+    position: relative;
+    left: 100px;
+    bottom: 900px;
+    color: white;
+}
+.mendau{
+    font-size: 14px;
+    position: relative;
+    left: 100px;
+    bottom: 900px;
+    color: white;
+}
+.mendau2{
+    font-size: 15px;
+    position: relative;
+    left: 500px;
+    bottom: 965px;
+    color: white;
+}
+.vvv{
+    font-size: 20px;
+    position: relative;
+    left: 850px;
+    bottom: 999px;
+    color: white;
+}
